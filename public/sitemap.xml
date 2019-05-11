@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://artintnow.github.io/zhi/roadmap/</loc>
+    <lastmod>2019-05-11T18:02:51+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://artintnow.github.io/post/test/</loc>
     <lastmod>2019-05-11T16:00:46+08:00</lastmod>
   </url>
@@ -18,7 +23,7 @@
   
   <url>
     <loc>https://artintnow.github.io/</loc>
-    <lastmod>2019-05-11T16:00:46+08:00</lastmod>
+    <lastmod>2019-05-11T18:02:51+08:00</lastmod>
   </url>
   
   <url>
@@ -43,12 +48,13 @@
   
   <url>
     <loc>https://artintnow.github.io/categories/uncategorized/</loc>
-    <lastmod>2019-05-11T16:00:46+08:00</lastmod>
+    <lastmod>2019-05-11T18:02:51+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://artintnow.github.io/zhi/</loc>
+    <lastmod>2019-05-11T18:02:51+08:00</lastmod>
   </url>
   
   <url>

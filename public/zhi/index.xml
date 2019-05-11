@@ -5,9 +5,19 @@
     <link>https://artintnow.github.io/zhi/</link>
     <description>Recent content in 知 on AI NOW</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 11 May 2019 18:02:51 +0800</lastBuildDate>
     
 	<atom:link href="https://artintnow.github.io/zhi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Roadmap</title>
+      <link>https://artintnow.github.io/zhi/roadmap/</link>
+      <pubDate>Sat, 11 May 2019 18:02:51 +0800</pubDate>
+      
+      <guid>https://artintnow.github.io/zhi/roadmap/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
