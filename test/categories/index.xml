@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on AI NOW</title>
+    <link>https://artintnow.github.io/categories/</link>
+    <description>Recent content in Categories on AI NOW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://artintnow.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://artintnow.github.io/categories/uncategorized/</link>
+      <pubDate>Sat, 11 May 2019 16:00:46 +0800</pubDate>
+      
+      <guid>https://artintnow.github.io/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

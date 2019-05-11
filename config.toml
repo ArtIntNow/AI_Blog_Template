@@ -1,0 +1,38 @@
+# Site settings
+baseurl = "https://artintnow.github.io/"
+title = "AI NOW"
+paginate = 4
+buildFuture = true
+
+[[menu.social]]
+  name = "GitHub"
+  title = "fab fa-github-square"
+  url = "https://github.com/artintnow"
+  
+[[menu.main]]
+  name = "知"
+  title = "知"
+  url = "/zhi/"
+  
+[[menu.main]]
+  name = "行"
+  title = "行"
+  url = "/xing/"
+  
+[[menu.main]]
+  name = "道"
+  title = "道"
+  url = "/dao/"
+
+
+[params]
+  author = "artintnow"
+  classes = []
+  # mailchimp = "https://artintnow.github.io"
+  
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
