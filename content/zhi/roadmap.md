@@ -10,3 +10,4 @@ thumbnail: ""
 categories:
 - Uncategorized
 ---
+tools: git(github)/hugo(ui)/typora(write)
